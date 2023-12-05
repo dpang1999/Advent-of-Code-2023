@@ -1,0 +1,14 @@
+A:\New folder\random coding\Advent of Code\Advent-of-Code-2023\Days\Day4\bin\Debug\net7.0\Day4.exe
+A:\New folder\random coding\Advent of Code\Advent-of-Code-2023\Days\Day4\bin\Debug\net7.0\Day4.deps.json
+A:\New folder\random coding\Advent of Code\Advent-of-Code-2023\Days\Day4\bin\Debug\net7.0\Day4.runtimeconfig.json
+A:\New folder\random coding\Advent of Code\Advent-of-Code-2023\Days\Day4\bin\Debug\net7.0\Day4.dll
+A:\New folder\random coding\Advent of Code\Advent-of-Code-2023\Days\Day4\bin\Debug\net7.0\Day4.pdb
+A:\New folder\random coding\Advent of Code\Advent-of-Code-2023\Days\Day4\obj\Debug\net7.0\Day4.GeneratedMSBuildEditorConfig.editorconfig
+A:\New folder\random coding\Advent of Code\Advent-of-Code-2023\Days\Day4\obj\Debug\net7.0\Day4.AssemblyInfoInputs.cache
+A:\New folder\random coding\Advent of Code\Advent-of-Code-2023\Days\Day4\obj\Debug\net7.0\Day4.AssemblyInfo.cs
+A:\New folder\random coding\Advent of Code\Advent-of-Code-2023\Days\Day4\obj\Debug\net7.0\Day4.csproj.CoreCompileInputs.cache
+A:\New folder\random coding\Advent of Code\Advent-of-Code-2023\Days\Day4\obj\Debug\net7.0\Day4.dll
+A:\New folder\random coding\Advent of Code\Advent-of-Code-2023\Days\Day4\obj\Debug\net7.0\refint\Day4.dll
+A:\New folder\random coding\Advent of Code\Advent-of-Code-2023\Days\Day4\obj\Debug\net7.0\Day4.pdb
+A:\New folder\random coding\Advent of Code\Advent-of-Code-2023\Days\Day4\obj\Debug\net7.0\Day4.genruntimeconfig.cache
+A:\New folder\random coding\Advent of Code\Advent-of-Code-2023\Days\Day4\obj\Debug\net7.0\ref\Day4.dll

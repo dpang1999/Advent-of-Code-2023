@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\New folder\\random coding\\Advent of Code\\Advent-of-Code-2023\\Days\\Day2\\Day2.csproj": {}
+    "A:\\New folder\\random coding\\Advent of Code\\Advent-of-Code-2023\\Days\\Day4\\Day4.csproj": {}
   },
   "projects": {
-    "A:\\New folder\\random coding\\Advent of Code\\Advent-of-Code-2023\\Days\\Day2\\Day2.csproj": {
+    "A:\\New folder\\random coding\\Advent of Code\\Advent-of-Code-2023\\Days\\Day4\\Day4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\New folder\\random coding\\Advent of Code\\Advent-of-Code-2023\\Days\\Day2\\Day2.csproj",
-        "projectName": "Day2",
-        "projectPath": "A:\\New folder\\random coding\\Advent of Code\\Advent-of-Code-2023\\Days\\Day2\\Day2.csproj",
+        "projectUniqueName": "A:\\New folder\\random coding\\Advent of Code\\Advent-of-Code-2023\\Days\\Day4\\Day4.csproj",
+        "projectName": "Day4",
+        "projectPath": "A:\\New folder\\random coding\\Advent of Code\\Advent-of-Code-2023\\Days\\Day4\\Day4.csproj",
         "packagesPath": "C:\\Users\\slaps\\.nuget\\packages\\",
-        "outputPath": "A:\\New folder\\random coding\\Advent of Code\\Advent-of-Code-2023\\Days\\Day2\\obj\\",
+        "outputPath": "A:\\New folder\\random coding\\Advent of Code\\Advent-of-Code-2023\\Days\\Day4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\slaps\\AppData\\Roaming\\NuGet\\NuGet.Config"
